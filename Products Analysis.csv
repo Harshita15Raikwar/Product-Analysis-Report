@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Brand,Average_Price,SPF_Rating,Skin_Type,Hair_Type,Age_Group,Gender,Popularity_Rating,Usage_Frequency,Primary_Ingredient,Fragrance_Type,Waterproof,Organic,Paraben_Free,Summer_Essential_Score,Region_Usage,Online_Availability
+P00001,Sunscreen,Bodycare,Ponds,439.7,15,Normal,Straight,Teen,Male,1,Occasional,Charcoal,Floral,No,Yes,No,2,Pan-India,Myntra
+P00002,Lip Balm,Bodycare,Dove,178.55,30,Normal,Wavy,Teen,Female,4,Weekly,Coconut Oil,Floral,No,Yes,No,7,East,Flipkart
+P00003,Lip Balm,Skincare,Ponds,600.27,50,Oily,Coily,Senior,Female,3,Weekly,Vitamin C,Citrus,Yes,Yes,Yes,5,North,Nykaa
+P00004,Body Lotion,Skincare,L'Oréal,749.37,32,Dry,Coily,Adult,Unisex,4,Daily,Tea Tree,Citrus,Yes,Yes,Yes,6,Pan-India,Myntra
+P00005,Toner,Makeup,Biotique,1331.89,30,Oily,Straight,Teen,Female,2,Daily,Aloe Vera,Fruity,No,Yes,Yes,5,West,Nykaa
+P00006,Shampoo,Makeup,Neutrogena,1132.57,30,Normal,Wavy,Senior,Unisex,3,Daily,Rose Water,Floral,Yes,No,No,10,Pan-India,Myntra
+P00007,Lip Balm,Skincare,Garnier,1466.04,30,Normal,Straight,Adult,Unisex,5,Occasional,Tea Tree,Floral,No,Yes,Yes,5,North,Myntra
+P00008,Sunscreen,Skincare,Biotique,605.23,30,Sensitive,Coily,Teen,Female,1,Occasional,Tea Tree,Floral,No,No,No,10,Pan-India,Flipkart
+P00009,Moisturizer,Bodycare,Dove,57.07,30,Normal,Straight,Senior,Unisex,3,Occasional,Vitamin C,Citrus,No,No,Yes,7,North,Myntra
+P00010,Serum,Bodycare,Himalaya,717.79,30,Normal,Curly,Senior,Female,1,Weekly,Aloe Vera,Unscented,Yes,No,Yes,5,West,Amazon
+P00011,Body Lotion,Bodycare,Dove,1427.91,30,Normal,Straight,Adult,Female,5,Occasional,Charcoal,Citrus,No,No,Yes,3,South,Amazon
+P00012,Deodorant,Fragrance,L'Oréal,615.27,15,Dry,Curly,Teen,Female,2,Weekly,Vitamin C,Woody,Yes,Yes,Yes,1,East,Myntra
+P00013,Moisturizer,Skincare,Biotique,102.92,32,Dry,Straight,Adult,Female,2,Occasional,Aloe Vera,Floral,No,Yes,No,5,South,Nykaa
+P00014,Face Wash,Makeup,Garnier,292.52,15,Dry,Straight,Senior,Male,1,Occasional,Charcoal,Unscented,No,No,Yes,2,South,Brand Website
+P00015,Moisturizer,Makeup,Mamaearth,1455.79,30,Normal,Coily,Senior,Unisex,5,Occasional,Charcoal,Fruity,Yes,No,Yes,4,South,Nykaa
+P00016,Toner,Fragrance,Garnier,472.6,50,Combination,Straight,Senior,Male,3,Occasional,Coconut Oil,Citrus,Yes,No,Yes,10,Pan-India,Myntra
+P00017,Lip Balm,Makeup,Garnier,124.11,30,Sensitive,Straight,Adult,Unisex,1,Daily,Vitamin C,Floral,Yes,Yes,Yes,1,Pan-India,Myntra
+P00018,Body Lotion,Skincare,Nivea,1019.3,32,Oily,Straight,Teen,Male,3,Occasional,Charcoal,Woody,No,No,Yes,7,Pan-India,Myntra
+P00019,Sunscreen,Haircare,Nivea,1195.98,32,Dry,Straight,Teen,Unisex,3,Occasional,Charcoal,Fruity,Yes,Yes,Yes,9,West,Flipkart
+P00020,Shampoo,Fragrance,Ponds,692.96,15,Dry,Straight,Senior,Unisex,2,Occasional,Tea Tree,Fruity,No,No,No,6,East,Brand Website
+P00021,Lip Balm,Haircare,Neutrogena,1411.58,30,Dry,Straight,Teen,Male,5,Daily,Tea Tree,Fruity,Yes,Yes,No,9,South,Amazon
+P00022,Deodorant,Makeup,Lakmé,70.94,32,Dry,Straight,Teen,Unisex,1,Weekly,Vitamin C,Floral,No,No,Yes,10,West,Brand Website
+P00023,Lip Balm,Haircare,Neutrogena,68.89,15,Sensitive,Straight,Senior,Male,4,Weekly,Aloe Vera,Citrus,No,Yes,Yes,9,North,Brand Website
+P00024,Shampoo,Fragrance,Nivea,153.8,32,Oily,Curly,Adult,Unisex,3,Occasional,Aloe Vera,Unscented,Yes,No,Yes,3,West,Amazon
+P00025,Sunscreen,Haircare,Mamaearth,1263.45,15,Combination,Straight,Teen,Unisex,2,Weekly,Aloe Vera,Fruity,Yes,Yes,No,3,North,Myntra
+P00026,Serum,Haircare,Mamaearth,114.37,30,Dry,Straight,Senior,Unisex,2,Weekly,Aloe Vera,Floral,No,Yes,No,10,East,Myntra
+P00027,Conditioner,Fragrance,L'Oréal,470.96,15,Dry,Curly,Teen,Unisex,1,Daily,Rose Water,Fruity,No,Yes,Yes,10,South,Nykaa
+P00028,Toner,Haircare,Garnier,960.84,32,Oily,Straight,Teen,Male,4,Occasional,Vitamin C,Floral,No,No,Yes,10,Pan-India,Amazon
+P00029,Face Wash,Haircare,Ponds,382.53,50,Sensitive,Straight,Teen,Male,3,Daily,Charcoal,Woody,No,No,Yes,3,North,Myntra
+P00030,Toner,Haircare,Neutrogena,450.29,32,Normal,Coily,Adult,Male,5,Weekly,Charcoal,Woody,No,Yes,Yes,5,West,Myntra
+P00031,Moisturizer,Fragrance,Biotique,321.05,50,Sensitive,Straight,Senior,Female,4,Weekly,Rose Water,Woody,No,Yes,Yes,8,East,Nykaa
+P00032,Shampoo,Skincare,Biotique,1093.33,30,Sensitive,Straight,Teen,Unisex,3,Occasional,Aloe Vera,Floral,No,Yes,No,1,West,Amazon
+P00033,Serum,Skincare,Ponds,377.37,15,Normal,Straight,Adult,Unisex,5,Daily,Charcoal,Woody,Yes,Yes,No,2,South,Nykaa
+P00034,Toner,Skincare,Himalaya,98.86,15,Combination,Straight,Adult,Male,4,Occasional,Charcoal,Unscented,No,Yes,Yes,2,North,Brand Website
+P00035,Face Wash,Makeup,Dove,1385.79,50,Normal,Coily,Teen,Unisex,1,Daily,Aloe Vera,Woody,No,No,Yes,4,West,Myntra
+P00036,Sunscreen,Bodycare,Nivea,1394.58,50,Combination,Curly,Senior,Female,5,Daily,Vitamin C,Fruity,Yes,Yes,No,7,South,Myntra
+P00037,Conditioner,Bodycare,L'Oréal,1220.12,50,Normal,Straight,Adult,Female,2,Occasional,Tea Tree,Citrus,Yes,Yes,No,4,East,Flipkart
+P00038,Toner,Skincare,Mamaearth,1043.57,30,Dry,Straight,Adult,Unisex,2,Weekly,Vitamin C,Unscented,No,Yes,No,7,Pan-India,Amazon
+P00039,Sunscreen,Fragrance,Nivea,1277.88,50,Oily,Straight,Teen,Unisex,5,Weekly,Tea Tree,Unscented,Yes,No,No,4,South,Flipkart
+P00040,Face Wash,Haircare,L'Oréal,843.94,50,Oily,Straight,Senior,Unisex,1,Occasional,Charcoal,Fruity,Yes,No,No,4,West,Myntra
+P00041,Sunscreen,Bodycare,L'Oréal,546.34,30,Normal,Straight,Teen,Unisex,3,Weekly,Rose Water,Citrus,No,No,Yes,1,West,Myntra
+P00042,Moisturizer,Haircare,Nivea,1438.47,50,Combination,Curly,Senior,Male,4,Occasional,Charcoal,Floral,Yes,No,Yes,4,West,Brand Website
+P00043,Serum,Haircare,L'Oréal,946.68,15,Oily,Straight,Adult,Unisex,1,Daily,Aloe Vera,Floral,No,Yes,Yes,2,West,Nykaa
+P00044,Conditioner,Haircare,Dove,487.37,32,Combination,Straight,Adult,Female,5,Daily,Rose Water,Unscented,Yes,Yes,Yes,7,South,Nykaa
+P00045,Toner,Haircare,Garnier,709.99,30,Oily,Straight,Teen,Unisex,2,Weekly,Charcoal,Citrus,Yes,No,No,7,East,Flipkart
+P00046,Sunscreen,Haircare,L'Oréal,1372.97,15,Sensitive,Straight,Senior,Male,2,Daily,Aloe Vera,Fruity,Yes,Yes,No,10,Pan-India,Myntra
+P00047,Moisturizer,Fragrance,Garnier,1359.5,15,Oily,Straight,Senior,Male,4,Daily,Rose Water,Fruity,No,No,Yes,1,West,Flipkart
+P00048,Body Lotion,Makeup,Dove,1201.64,15,Oily,Wavy,Teen,Female,4,Weekly,Charcoal,Fruity,No,No,No,10,West,Myntra
+P00049,Sunscreen,Haircare,Lakmé,927.54,50,Dry,Curly,Teen,Male,4,Weekly,Coconut Oil,Fruity,Yes,Yes,No,1,West,Brand Website
+P00050,Toner,Fragrance,Mamaearth,1111.79,15,Sensitive,Straight,Adult,Female,5,Daily,Coconut Oil,Citrus,Yes,Yes,Yes,3,North,Brand Website
+P00051,Body Lotion,Makeup,Ponds,300.52,50,Combination,Curly,Teen,Female,5,Occasional,Coconut Oil,Fruity,Yes,Yes,Yes,9,West,Flipkart
+P00052,Shampoo,Bodycare,L'Oréal,1370.1,50,Combination,Straight,Adult,Female,5,Occasional,Tea Tree,Unscented,Yes,No,Yes,10,East,Nykaa
+P00053,Serum,Makeup,Nivea,1317.47,50,Oily,Curly,Senior,Male,2,Weekly,Aloe Vera,Fruity,Yes,No,No,6,Pan-India,Nykaa
+P00054,Moisturizer,Skincare,Garnier,396.44,50,Combination,Straight,Senior,Unisex,2,Weekly,Charcoal,Woody,Yes,Yes,Yes,2,Pan-India,Nykaa
+P00055,Body Lotion,Fragrance,Mamaearth,1008.78,32,Oily,Coily,Senior,Male,2,Weekly,Tea Tree,Citrus,Yes,No,No,6,Pan-India,Nykaa
+P00056,Toner,Makeup,Neutrogena,1204.79,30,Oily,Straight,Senior,Male,2,Daily,Vitamin C,Citrus,Yes,No,No,3,North,Nykaa
+P00057,Body Lotion,Skincare,Himalaya,289.23,32,Oily,Straight,Teen,Female,3,Daily,Coconut Oil,Woody,Yes,No,Yes,10,West,Amazon
+P00058,Sunscreen,Bodycare,Lakmé,357.41,32,Sensitive,Coily,Senior,Unisex,4,Weekly,Aloe Vera,Floral,No,Yes,Yes,6,Pan-India,Amazon
+P00059,Lip Balm,Skincare,Mamaearth,944.49,32,Sensitive,Straight,Senior,Female,4,Occasional,Rose Water,Citrus,No,Yes,No,1,West,Myntra
+P00060,Moisturizer,Haircare,Himalaya,928.49,32,Sensitive,Straight,Senior,Female,5,Daily,Tea Tree,Unscented,Yes,No,Yes,6,Pan-India,Brand Website
+P00061,Conditioner,Skincare,Ponds,863.34,30,Normal,Straight,Teen,Male,2,Occasional,Tea Tree,Unscented,No,No,No,4,West,Myntra
+P00062,Deodorant,Skincare,Dove,353.55,50,Normal,Curly,Senior,Female,5,Weekly,Tea Tree,Fruity,Yes,No,No,10,North,Brand Website
+P00063,Body Lotion,Haircare,Garnier,1482.69,50,Sensitive,Wavy,Teen,Female,1,Weekly,Coconut Oil,Woody,Yes,No,No,7,South,Nykaa
+P00064,Conditioner,Haircare,Lakmé,849.21,15,Dry,Straight,Senior,Female,4,Occasional,Coconut Oil,Unscented,Yes,Yes,No,2,South,Myntra
+P00065,Lip Balm,Fragrance,Biotique,790.58,30,Sensitive,Straight,Teen,Unisex,4,Occasional,Tea Tree,Fruity,No,Yes,Yes,2,North,Brand Website
+P00066,Conditioner,Bodycare,Himalaya,1406.17,30,Combination,Wavy,Teen,Female,5,Daily,Aloe Vera,Woody,No,Yes,No,3,Pan-India,Myntra
+P00067,Moisturizer,Skincare,Biotique,1341.69,32,Normal,Straight,Adult,Male,5,Weekly,Rose Water,Floral,No,No,Yes,1,East,Myntra
+P00068,Toner,Makeup,Mamaearth,553.7,30,Combination,Straight,Senior,Female,3,Daily,Charcoal,Floral,Yes,Yes,Yes,8,North,Myntra
+P00069,Shampoo,Fragrance,L'Oréal,680.37,32,Combination,Curly,Senior,Female,1,Occasional,Coconut Oil,Citrus,No,No,No,7,East,Amazon
+P00070,Body Lotion,Haircare,Mamaearth,480.81,30,Oily,Straight,Senior,Unisex,4,Occasional,Vitamin C,Unscented,Yes,No,No,2,South,Nykaa
+P00071,Deodorant,Makeup,L'Oréal,222.66,32,Normal,Straight,Senior,Male,1,Daily,Charcoal,Floral,No,Yes,Yes,5,North,Myntra
+P00072,Body Lotion,Makeup,Biotique,686.04,50,Oily,Straight,Senior,Unisex,4,Occasional,Charcoal,Unscented,No,Yes,Yes,8,West,Nykaa
+P00073,Lip Balm,Haircare,Ponds,1407.16,15,Combination,Straight,Teen,Female,4,Weekly,Vitamin C,Fruity,No,Yes,No,7,South,Amazon
+P00074,Deodorant,Haircare,Nivea,988.18,30,Dry,Straight,Senior,Male,2,Weekly,Charcoal,Fruity,Yes,No,No,5,North,Myntra
+P00075,Conditioner,Skincare,Nivea,607.23,50,Combination,Straight,Adult,Male,3,Daily,Rose Water,Fruity,No,Yes,No,4,Pan-India,Myntra
+P00076,Sunscreen,Bodycare,Ponds,1464.79,15,Dry,Wavy,Senior,Female,3,Daily,Charcoal,Unscented,No,No,No,7,West,Myntra
+P00077,Face Wash,Fragrance,L'Oréal,299.4,50,Combination,Straight,Teen,Female,2,Daily,Vitamin C,Floral,No,Yes,No,3,Pan-India,Flipkart
+P00078,Face Wash,Skincare,Mamaearth,953.04,30,Sensitive,Straight,Teen,Male,3,Occasional,Coconut Oil,Woody,Yes,No,Yes,6,Pan-India,Brand Website
+P00079,Toner,Haircare,Nivea,406.69,15,Combination,Curly,Senior,Unisex,1,Weekly,Tea Tree,Woody,Yes,No,Yes,7,North,Amazon
+P00080,Deodorant,Bodycare,Lakmé,1255.59,50,Oily,Straight,Senior,Female,1,Daily,Charcoal,Floral,No,Yes,No,6,Pan-India,Nykaa
+P00081,Sunscreen,Makeup,L'Oréal,899.74,30,Combination,Straight,Senior,Unisex,4,Daily,Coconut Oil,Floral,No,Yes,Yes,5,North,Flipkart
+P00082,Sunscreen,Haircare,Biotique,1256.16,30,Dry,Straight,Senior,Unisex,1,Weekly,Aloe Vera,Citrus,Yes,Yes,Yes,5,North,Myntra
+P00083,Shampoo,Haircare,Lakmé,1157.98,30,Normal,Curly,Senior,Female,2,Daily,Vitamin C,Fruity,Yes,No,Yes,10,North,Nykaa
+P00084,Conditioner,Haircare,Neutrogena,1202.83,32,Normal,Coily,Adult,Male,1,Occasional,Charcoal,Citrus,Yes,No,No,7,Pan-India,Myntra
+P00085,Moisturizer,Haircare,Garnier,1148.83,30,Sensitive,Wavy,Adult,Male,2,Daily,Charcoal,Floral,Yes,Yes,No,4,South,Flipkart
+P00086,Body Lotion,Haircare,Nivea,793.0,50,Sensitive,Straight,Adult,Unisex,3,Daily,Rose Water,Unscented,Yes,Yes,Yes,1,South,Brand Website
+P00087,Moisturizer,Haircare,Ponds,1398.23,30,Dry,Wavy,Teen,Female,2,Daily,Coconut Oil,Woody,Yes,No,No,3,West,Brand Website
+P00088,Conditioner,Fragrance,L'Oréal,543.47,32,Normal,Straight,Senior,Female,3,Daily,Vitamin C,Fruity,Yes,Yes,No,9,West,Brand Website
+P00089,Moisturizer,Makeup,Neutrogena,1261.48,50,Oily,Straight,Adult,Male,3,Daily,Coconut Oil,Woody,Yes,No,No,5,West,Flipkart
+P00090,Shampoo,Haircare,Lakmé,603.4,32,Sensitive,Straight,Senior,Female,4,Weekly,Charcoal,Floral,Yes,Yes,Yes,4,East,Brand Website
+P00091,Conditioner,Haircare,Mamaearth,1084.79,32,Combination,Wavy,Teen,Unisex,1,Occasional,Rose Water,Woody,No,No,No,3,North,Amazon
+P00092,Toner,Haircare,Neutrogena,859.67,32,Combination,Coily,Adult,Male,1,Daily,Vitamin C,Floral,Yes,Yes,No,9,West,Amazon
+P00093,Shampoo,Skincare,Nivea,1409.32,15,Combination,Straight,Adult,Male,4,Occasional,Tea Tree,Citrus,Yes,Yes,No,2,North,Amazon
+P00094,Shampoo,Skincare,Mamaearth,167.03,50,Oily,Coily,Senior,Male,1,Daily,Vitamin C,Fruity,No,No,Yes,8,Pan-India,Flipkart
+P00095,Serum,Bodycare,L'Oréal,1222.2,15,Dry,Coily,Teen,Female,2,Occasional,Vitamin C,Citrus,Yes,No,Yes,4,East,Brand Website
+P00096,Serum,Haircare,Dove,121.44,32,Dry,Wavy,Teen,Unisex,1,Daily,Vitamin C,Unscented,No,No,Yes,4,North,Brand Website
+P00097,Body Lotion,Haircare,Lakmé,178.73,30,Dry,Straight,Senior,Male,5,Daily,Rose Water,Woody,Yes,Yes,Yes,4,East,Amazon
+P00098,Face Wash,Fragrance,Himalaya,414.38,30,Combination,Straight,Teen,Male,4,Occasional,Charcoal,Citrus,Yes,No,No,9,West,Myntra
+P00099,Moisturizer,Skincare,Lakmé,1368.18,32,Sensitive,Straight,Teen,Female,2,Weekly,Aloe Vera,Unscented,No,Yes,Yes,6,North,Brand Website
+P00100,Body Lotion,Skincare,Himalaya,1445.89,30,Oily,Wavy,Teen,Female,1,Daily,Tea Tree,Floral,Yes,Yes,No,4,Pan-India,Myntra
+P00101,Body Lotion,Haircare,Mamaearth,559.43,30,Normal,Straight,Adult,Unisex,2,Weekly,Vitamin C,Woody,No,No,No,6,East,Flipkart
+P00102,Lip Balm,Skincare,Himalaya,1165.64,32,Oily,Straight,Senior,Male,2,Daily,Vitamin C,Floral,Yes,Yes,Yes,4,North,Flipkart
+P00103,Toner,Skincare,L'Oréal,949.38,30,Dry,Straight,Teen,Female,2,Occasional,Tea Tree,Floral,Yes,No,Yes,5,East,Amazon
+P00104,Conditioner,Makeup,Himalaya,539.6,30,Combination,Straight,Teen,Male,3,Weekly,Rose Water,Floral,Yes,No,No,5,West,Amazon
+P00105,Lip Balm,Skincare,Garnier,1047.55,32,Sensitive,Straight,Senior,Female,1,Occasional,Charcoal,Unscented,Yes,No,No,1,North,Nykaa
+P00106,Lip Balm,Skincare,Biotique,598.63,15,Dry,Straight,Teen,Female,2,Weekly,Coconut Oil,Floral,Yes,Yes,No,2,West,Flipkart
+P00107,Shampoo,Haircare,Himalaya,601.39,15,Oily,Straight,Adult,Female,4,Weekly,Rose Water,Woody,Yes,Yes,No,4,East,Amazon
+P00108,Deodorant,Makeup,L'Oréal,276.21,50,Sensitive,Straight,Teen,Male,3,Weekly,Charcoal,Unscented,Yes,No,No,1,West,Myntra
+P00109,Lip Balm,Makeup,Dove,889.75,50,Normal,Straight,Senior,Male,3,Occasional,Rose Water,Floral,Yes,No,Yes,10,East,Amazon
+P00110,Body Lotion,Haircare,Garnier,339.83,50,Dry,Straight,Teen,Male,1,Weekly,Coconut Oil,Unscented,Yes,Yes,Yes,3,North,Amazon
+P00111,Toner,Fragrance,Mamaearth,1400.37,30,Normal,Curly,Senior,Female,2,Weekly,Aloe Vera,Unscented,No,Yes,No,6,East,Brand Website
+P00112,Sunscreen,Fragrance,Ponds,435.43,50,Dry,Straight,Adult,Unisex,2,Daily,Rose Water,Floral,No,No,Yes,5,West,Flipkart
+P00113,Face Wash,Skincare,Biotique,405.05,32,Combination,Straight,Adult,Male,2,Daily,Coconut Oil,Unscented,No,Yes,Yes,10,South,Flipkart
+P00114,Toner,Makeup,Lakmé,71.89,32,Oily,Straight,Adult,Unisex,2,Occasional,Coconut Oil,Citrus,Yes,Yes,No,4,East,Flipkart
+P00115,Shampoo,Makeup,Dove,586.8,30,Normal,Straight,Adult,Male,5,Occasional,Charcoal,Floral,Yes,No,No,7,North,Brand Website
+P00116,Moisturizer,Haircare,Garnier,1237.19,50,Sensitive,Curly,Adult,Male,2,Weekly,Rose Water,Citrus,No,No,Yes,1,North,Nykaa
+P00117,Toner,Makeup,Garnier,832.85,30,Normal,Straight,Teen,Male,5,Weekly,Aloe Vera,Floral,Yes,Yes,No,4,Pan-India,Nykaa
+P00118,Toner,Skincare,Ponds,470.11,50,Dry,Coily,Teen,Unisex,4,Daily,Tea Tree,Fruity,Yes,Yes,Yes,10,North,Nykaa
+P00119,Serum,Haircare,Dove,342.66,50,Combination,Straight,Adult,Male,2,Occasional,Tea Tree,Citrus,Yes,Yes,No,9,South,Nykaa
+P00120,Lip Balm,Makeup,Biotique,1233.82,32,Normal,Curly,Teen,Male,3,Weekly,Rose Water,Unscented,Yes,No,No,4,East,Flipkart
+P00121,Moisturizer,Bodycare,L'Oréal,914.57,32,Oily,Straight,Teen,Female,1,Weekly,Coconut Oil,Floral,Yes,Yes,Yes,2,Pan-India,Myntra
+P00122,Toner,Haircare,Biotique,1028.94,15,Oily,Straight,Adult,Unisex,5,Daily,Coconut Oil,Citrus,Yes,Yes,Yes,6,South,Myntra
+P00123,Deodorant,Fragrance,Biotique,785.76,32,Normal,Straight,Senior,Male,1,Weekly,Tea Tree,Citrus,No,No,Yes,1,South,Amazon
+P00124,Sunscreen,Skincare,Lakmé,1313.96,15,Oily,Curly,Teen,Female,3,Occasional,Aloe Vera,Floral,No,No,Yes,8,East,Nykaa
+P00125,Sunscreen,Makeup,L'Oréal,1099.69,50,Dry,Straight,Adult,Female,2,Daily,Tea Tree,Fruity,No,Yes,No,2,North,Amazon
+P00126,Face Wash,Haircare,Mamaearth,1109.51,50,Oily,Wavy,Teen,Unisex,5,Occasional,Rose Water,Unscented,No,Yes,No,3,East,Amazon
+P00127,Toner,Skincare,Nivea,792.48,32,Combination,Straight,Senior,Female,1,Occasional,Coconut Oil,Woody,Yes,Yes,Yes,7,West,Amazon
+P00128,Serum,Makeup,Neutrogena,867.34,32,Oily,Straight,Adult,Male,4,Weekly,Vitamin C,Woody,No,Yes,Yes,9,East,Flipkart
+P00129,Body Lotion,Makeup,Dove,55.58,50,Oily,Curly,Teen,Unisex,2,Daily,Coconut Oil,Floral,No,Yes,Yes,4,North,Amazon
+P00130,Moisturizer,Skincare,Himalaya,600.32,32,Combination,Wavy,Senior,Female,2,Daily,Vitamin C,Unscented,No,No,No,6,South,Nykaa
+P00131,Moisturizer,Skincare,Dove,415.19,50,Combination,Straight,Teen,Female,2,Daily,Aloe Vera,Unscented,Yes,No,Yes,6,North,Nykaa
+P00132,Body Lotion,Makeup,Mamaearth,804.17,50,Combination,Straight,Teen,Male,3,Occasional,Charcoal,Fruity,Yes,Yes,Yes,9,South,Amazon
+P00133,Face Wash,Fragrance,Garnier,446.58,15,Dry,Coily,Senior,Female,2,Weekly,Charcoal,Floral,No,Yes,Yes,4,East,Nykaa
+P00134,Lip Balm,Bodycare,Mamaearth,458.75,32,Sensitive,Straight,Senior,Female,5,Weekly,Tea Tree,Floral,Yes,Yes,Yes,3,North,Amazon
+P00135,Serum,Bodycare,Mamaearth,1190.25,50,Normal,Straight,Adult,Male,4,Weekly,Vitamin C,Floral,No,Yes,No,6,Pan-India,Flipkart
+P00136,Shampoo,Makeup,Dove,103.03,15,Dry,Straight,Senior,Unisex,4,Weekly,Tea Tree,Unscented,Yes,No,Yes,7,North,Amazon
+P00137,Serum,Fragrance,Lakmé,787.46,32,Oily,Straight,Senior,Female,2,Weekly,Vitamin C,Fruity,No,Yes,No,10,Pan-India,Myntra
+P00138,Deodorant,Haircare,Lakmé,1437.4,50,Normal,Straight,Teen,Male,4,Occasional,Aloe Vera,Floral,Yes,No,No,3,Pan-India,Flipkart
+P00139,Serum,Haircare,L'Oréal,943.12,50,Dry,Straight,Senior,Unisex,1,Occasional,Aloe Vera,Woody,No,No,No,2,South,Brand Website
+P00140,Face Wash,Skincare,Nivea,209.33,30,Dry,Straight,Teen,Unisex,2,Occasional,Vitamin C,Unscented,Yes,No,Yes,9,West,Brand Website
+P00141,Sunscreen,Skincare,Ponds,1071.2,32,Oily,Coily,Senior,Unisex,4,Daily,Coconut Oil,Unscented,Yes,No,Yes,6,Pan-India,Flipkart
+P00142,Body Lotion,Makeup,Ponds,91.5,15,Normal,Straight,Teen,Female,3,Weekly,Aloe Vera,Floral,Yes,Yes,No,5,North,Brand Website
+P00143,Lip Balm,Skincare,L'Oréal,415.65,15,Combination,Straight,Teen,Female,1,Daily,Tea Tree,Unscented,No,Yes,No,3,South,Flipkart
+P00144,Lip Balm,Fragrance,Himalaya,746.78,50,Oily,Straight,Adult,Female,2,Weekly,Coconut Oil,Citrus,Yes,No,No,8,East,Myntra
+P00145,Lip Balm,Skincare,Ponds,1262.38,15,Sensitive,Straight,Adult,Unisex,3,Weekly,Rose Water,Fruity,No,No,No,6,Pan-India,Brand Website
+P00146,Toner,Bodycare,L'Oréal,1234.52,32,Sensitive,Coily,Senior,Female,3,Daily,Coconut Oil,Citrus,Yes,No,Yes,2,South,Brand Website
+P00147,Serum,Makeup,Dove,1462.26,30,Sensitive,Straight,Senior,Female,2,Daily,Coconut Oil,Woody,Yes,Yes,No,6,Pan-India,Flipkart
+P00148,Moisturizer,Haircare,Dove,362.9,50,Normal,Straight,Teen,Female,4,Weekly,Aloe Vera,Woody,No,No,Yes,4,Pan-India,Nykaa
+P00149,Serum,Haircare,Garnier,1118.12,30,Normal,Straight,Adult,Female,5,Weekly,Coconut Oil,Fruity,Yes,Yes,Yes,7,East,Myntra
+P00150,Shampoo,Skincare,Neutrogena,1131.67,15,Normal,Straight,Adult,Unisex,5,Weekly,Charcoal,Citrus,Yes,No,No,6,West,Brand Website
+P00151,Serum,Makeup,Lakmé,1292.72,50,Sensitive,Wavy,Senior,Male,3,Weekly,Rose Water,Citrus,No,Yes,No,8,South,Myntra
+P00152,Moisturizer,Haircare,Garnier,986.04,15,Sensitive,Straight,Senior,Unisex,2,Weekly,Aloe Vera,Fruity,No,Yes,No,7,East,Brand Website
+P00153,Serum,Haircare,L'Oréal,441.62,30,Oily,Straight,Adult,Female,4,Occasional,Charcoal,Unscented,Yes,No,No,10,East,Nykaa
+P00154,Lip Balm,Fragrance,Ponds,1476.95,15,Combination,Straight,Adult,Unisex,3,Occasional,Charcoal,Woody,Yes,Yes,No,1,East,Flipkart
+P00155,Body Lotion,Skincare,Dove,1308.98,30,Normal,Straight,Adult,Female,5,Occasional,Rose Water,Floral,No,Yes,Yes,10,West,Nykaa
+P00156,Moisturizer,Haircare,Neutrogena,825.4,50,Combination,Straight,Adult,Female,4,Occasional,Aloe Vera,Citrus,Yes,No,Yes,1,Pan-India,Nykaa
+P00157,Serum,Bodycare,Ponds,883.8,15,Sensitive,Curly,Teen,Unisex,1,Occasional,Charcoal,Unscented,No,No,Yes,7,Pan-India,Nykaa
+P00158,Sunscreen,Skincare,Himalaya,408.62,32,Normal,Straight,Senior,Male,5,Weekly,Aloe Vera,Unscented,No,Yes,Yes,3,Pan-India,Myntra
+P00159,Body Lotion,Skincare,Lakmé,760.58,32,Normal,Straight,Teen,Male,4,Occasional,Charcoal,Citrus,Yes,No,No,6,Pan-India,Nykaa
+P00160,Deodorant,Makeup,Garnier,1234.29,30,Sensitive,Straight,Teen,Male,5,Weekly,Charcoal,Woody,No,Yes,No,8,West,Amazon
+P00161,Body Lotion,Haircare,Himalaya,76.32,32,Sensitive,Straight,Adult,Male,2,Occasional,Aloe Vera,Fruity,No,No,Yes,9,Pan-India,Flipkart
+P00162,Shampoo,Makeup,Biotique,372.63,30,Oily,Straight,Senior,Female,2,Daily,Charcoal,Fruity,No,No,Yes,1,West,Brand Website
+P00163,Shampoo,Makeup,L'Oréal,723.21,30,Sensitive,Straight,Teen,Male,3,Weekly,Charcoal,Floral,Yes,Yes,No,2,West,Brand Website
+P00164,Toner,Skincare,L'Oréal,381.94,32,Normal,Wavy,Teen,Male,3,Occasional,Rose Water,Unscented,No,Yes,No,4,North,Nykaa
+P00165,Toner,Bodycare,Ponds,773.03,50,Normal,Straight,Adult,Unisex,1,Occasional,Vitamin C,Fruity,Yes,No,No,9,East,Nykaa
+P00166,Serum,Skincare,Lakmé,1342.23,30,Oily,Coily,Teen,Male,2,Occasional,Rose Water,Woody,Yes,No,No,3,North,Amazon
+P00167,Body Lotion,Haircare,Nivea,1353.66,30,Dry,Coily,Adult,Unisex,3,Occasional,Vitamin C,Citrus,No,Yes,No,6,Pan-India,Flipkart
+P00168,Toner,Fragrance,Garnier,1299.64,32,Combination,Straight,Senior,Unisex,3,Occasional,Tea Tree,Unscented,Yes,Yes,Yes,2,West,Nykaa
+P00169,Toner,Makeup,L'Oréal,1455.85,32,Combination,Straight,Teen,Unisex,1,Daily,Aloe Vera,Floral,Yes,No,Yes,4,North,Myntra
+P00170,Toner,Haircare,Neutrogena,537.81,15,Sensitive,Coily,Teen,Unisex,3,Daily,Aloe Vera,Floral,No,Yes,Yes,7,Pan-India,Brand Website
+P00171,Face Wash,Haircare,Garnier,1214.21,15,Dry,Straight,Adult,Male,3,Occasional,Aloe Vera,Floral,No,No,Yes,8,West,Nykaa
+P00172,Serum,Bodycare,Ponds,783.88,32,Combination,Straight,Senior,Male,1,Weekly,Tea Tree,Unscented,Yes,No,No,10,East,Myntra
+P00173,Conditioner,Makeup,Lakmé,1070.87,50,Oily,Straight,Senior,Unisex,1,Weekly,Charcoal,Floral,Yes,No,No,7,Pan-India,Brand Website
+P00174,Face Wash,Makeup,Garnier,1351.29,32,Dry,Straight,Teen,Male,2,Occasional,Vitamin C,Citrus,Yes,Yes,No,5,North,Brand Website
+P00175,Conditioner,Makeup,Garnier,743.42,32,Dry,Straight,Teen,Male,2,Occasional,Aloe Vera,Woody,No,Yes,Yes,10,North,Flipkart
+P00176,Lip Balm,Skincare,Neutrogena,864.67,30,Dry,Straight,Senior,Male,1,Weekly,Aloe Vera,Fruity,No,Yes,No,7,North,Myntra
+P00177,Sunscreen,Makeup,L'Oréal,898.77,30,Combination,Straight,Senior,Female,4,Weekly,Tea Tree,Woody,Yes,No,Yes,8,North,Myntra
+P00178,Lip Balm,Bodycare,Neutrogena,1236.8,50,Sensitive,Straight,Adult,Unisex,4,Daily,Rose Water,Unscented,Yes,Yes,Yes,10,North,Nykaa
+P00179,Lip Balm,Fragrance,Lakmé,522.44,30,Combination,Straight,Senior,Male,2,Daily,Tea Tree,Floral,Yes,Yes,Yes,4,West,Flipkart
+P00180,Moisturizer,Bodycare,Mamaearth,552.13,50,Dry,Straight,Senior,Female,2,Daily,Aloe Vera,Woody,Yes,No,Yes,10,South,Flipkart
+P00181,Face Wash,Haircare,Dove,624.18,32,Oily,Straight,Teen,Unisex,5,Occasional,Vitamin C,Unscented,Yes,No,No,4,North,Brand Website
+P00182,Moisturizer,Skincare,Himalaya,541.34,50,Normal,Straight,Teen,Unisex,4,Weekly,Vitamin C,Floral,Yes,No,Yes,2,West,Nykaa
+P00183,Face Wash,Makeup,L'Oréal,1371.52,15,Combination,Straight,Senior,Unisex,2,Daily,Coconut Oil,Woody,No,No,No,7,North,Amazon
+P00184,Conditioner,Makeup,Himalaya,1219.47,32,Combination,Straight,Senior,Female,5,Occasional,Rose Water,Floral,No,No,Yes,1,Pan-India,Brand Website
+P00185,Deodorant,Skincare,Biotique,933.72,15,Combination,Straight,Senior,Male,5,Weekly,Rose Water,Floral,No,Yes,No,4,South,Nykaa
+P00186,Sunscreen,Makeup,Nivea,1090.43,50,Combination,Straight,Senior,Unisex,2,Weekly,Vitamin C,Woody,No,No,Yes,4,North,Amazon
+P00187,Body Lotion,Haircare,Ponds,317.08,30,Sensitive,Coily,Adult,Female,4,Weekly,Aloe Vera,Citrus,No,Yes,No,10,North,Nykaa
+P00188,Deodorant,Makeup,Biotique,120.85,32,Normal,Straight,Adult,Male,5,Daily,Charcoal,Floral,Yes,Yes,Yes,7,Pan-India,Flipkart
+P00189,Body Lotion,Bodycare,Mamaearth,1084.81,30,Oily,Straight,Teen,Male,1,Weekly,Vitamin C,Fruity,Yes,No,No,1,Pan-India,Amazon
+P00190,Deodorant,Bodycare,Himalaya,1225.8,50,Dry,Straight,Adult,Male,4,Daily,Vitamin C,Citrus,No,No,No,2,Pan-India,Amazon
+P00191,Deodorant,Haircare,Dove,1025.11,15,Dry,Straight,Adult,Female,1,Weekly,Coconut Oil,Floral,Yes,No,Yes,7,South,Flipkart
+P00192,Deodorant,Skincare,L'Oréal,282.21,15,Oily,Straight,Adult,Female,4,Daily,Rose Water,Unscented,No,No,No,9,North,Amazon
+P00193,Body Lotion,Skincare,Dove,1236.1,15,Normal,Straight,Adult,Female,1,Daily,Tea Tree,Floral,Yes,No,Yes,7,North,Amazon
+P00194,Serum,Haircare,Lakmé,1485.35,50,Sensitive,Wavy,Adult,Unisex,3,Weekly,Charcoal,Unscented,Yes,Yes,Yes,9,West,Flipkart
+P00195,Face Wash,Bodycare,Himalaya,500.82,50,Combination,Straight,Teen,Unisex,5,Occasional,Coconut Oil,Unscented,No,Yes,Yes,1,East,Myntra
+P00196,Serum,Skincare,Ponds,293.43,50,Dry,Straight,Teen,Unisex,1,Weekly,Charcoal,Fruity,Yes,No,No,7,Pan-India,Myntra
+P00197,Lip Balm,Skincare,Dove,407.61,15,Combination,Straight,Teen,Female,5,Weekly,Tea Tree,Unscented,Yes,No,No,3,South,Amazon
+P00198,Toner,Fragrance,Dove,1226.9,15,Normal,Wavy,Teen,Unisex,2,Occasional,Tea Tree,Floral,Yes,Yes,Yes,6,North,Nykaa
+P00199,Toner,Haircare,L'Oréal,1087.43,50,Oily,Straight,Adult,Male,1,Daily,Charcoal,Unscented,No,Yes,Yes,5,West,Myntra
+P00200,Conditioner,Bodycare,Mamaearth,1052.53,32,Combination,Wavy,Senior,Female,5,Daily,Tea Tree,Woody,No,Yes,No,3,East,Amazon
+P00201,Shampoo,Bodycare,Biotique,704.77,50,Oily,Straight,Teen,Unisex,1,Occasional,Vitamin C,Unscented,Yes,Yes,Yes,9,Pan-India,Myntra
+P00202,Face Wash,Skincare,Garnier,695.68,32,Normal,Straight,Senior,Female,1,Weekly,Charcoal,Citrus,Yes,No,Yes,7,West,Nykaa
+P00203,Serum,Skincare,Lakmé,102.11,15,Dry,Straight,Senior,Unisex,3,Occasional,Rose Water,Citrus,No,No,Yes,9,North,Myntra
+P00204,Shampoo,Fragrance,Ponds,482.02,15,Dry,Straight,Adult,Female,1,Weekly,Tea Tree,Floral,Yes,No,Yes,2,Pan-India,Myntra
+P00205,Conditioner,Makeup,Biotique,1060.12,30,Sensitive,Curly,Teen,Male,4,Daily,Coconut Oil,Citrus,Yes,Yes,No,7,West,Amazon
+P00206,Toner,Skincare,Mamaearth,1393.15,50,Sensitive,Straight,Senior,Male,3,Weekly,Rose Water,Woody,No,Yes,No,4,East,Nykaa
+P00207,Toner,Skincare,Biotique,813.88,30,Normal,Straight,Teen,Female,4,Daily,Tea Tree,Woody,No,No,No,8,South,Brand Website
+P00208,Serum,Fragrance,Neutrogena,561.13,30,Sensitive,Straight,Senior,Unisex,2,Weekly,Coconut Oil,Woody,No,No,Yes,7,East,Amazon
+P00209,Lip Balm,Skincare,Neutrogena,460.23,32,Sensitive,Wavy,Adult,Unisex,1,Occasional,Vitamin C,Woody,No,Yes,No,3,North,Flipkart
+P00210,Toner,Fragrance,Neutrogena,267.63,15,Sensitive,Straight,Teen,Female,3,Weekly,Rose Water,Fruity,Yes,No,No,2,West,Myntra
+P00211,Shampoo,Skincare,Dove,290.06,50,Combination,Straight,Teen,Male,1,Weekly,Coconut Oil,Floral,Yes,Yes,Yes,6,Pan-India,Flipkart
+P00212,Face Wash,Skincare,Garnier,547.25,15,Sensitive,Straight,Adult,Unisex,3,Weekly,Rose Water,Unscented,No,No,Yes,1,East,Brand Website
+P00213,Conditioner,Fragrance,Biotique,159.03,50,Normal,Straight,Teen,Female,3,Daily,Vitamin C,Fruity,No,No,No,5,East,Myntra
+P00214,Conditioner,Makeup,Ponds,1171.58,30,Dry,Straight,Senior,Male,3,Weekly,Coconut Oil,Citrus,Yes,No,Yes,9,North,Myntra
+P00215,Deodorant,Fragrance,L'Oréal,710.73,30,Normal,Straight,Adult,Male,5,Occasional,Vitamin C,Woody,No,Yes,No,1,South,Myntra
+P00216,Toner,Skincare,Himalaya,1085.05,15,Normal,Straight,Adult,Unisex,3,Daily,Charcoal,Woody,No,Yes,No,4,Pan-India,Amazon
+P00217,Toner,Skincare,L'Oréal,203.2,50,Dry,Straight,Senior,Unisex,5,Weekly,Rose Water,Citrus,Yes,Yes,No,8,North,Brand Website
+P00218,Toner,Haircare,Nivea,1223.37,30,Oily,Straight,Adult,Female,2,Weekly,Rose Water,Fruity,Yes,No,No,3,Pan-India,Amazon
+P00219,Sunscreen,Makeup,Mamaearth,395.01,15,Dry,Wavy,Senior,Unisex,3,Daily,Vitamin C,Floral,No,No,Yes,5,West,Flipkart
+P00220,Conditioner,Haircare,Nivea,1087.68,32,Normal,Coily,Adult,Unisex,3,Daily,Aloe Vera,Fruity,No,Yes,No,2,North,Brand Website
+P00221,Moisturizer,Bodycare,Dove,1215.85,30,Sensitive,Wavy,Senior,Unisex,3,Occasional,Charcoal,Citrus,Yes,Yes,No,9,Pan-India,Myntra
+P00222,Deodorant,Haircare,Neutrogena,266.6,32,Dry,Straight,Adult,Unisex,5,Daily,Coconut Oil,Citrus,No,No,Yes,7,East,Amazon
+P00223,Toner,Makeup,Nivea,1410.1,50,Sensitive,Straight,Senior,Unisex,3,Occasional,Tea Tree,Unscented,Yes,No,No,10,Pan-India,Myntra
+P00224,Body Lotion,Makeup,Mamaearth,1124.49,15,Oily,Coily,Teen,Male,4,Daily,Aloe Vera,Citrus,Yes,Yes,No,6,South,Amazon
+P00225,Deodorant,Skincare,Lakmé,502.65,15,Combination,Straight,Senior,Unisex,5,Weekly,Coconut Oil,Fruity,No,Yes,No,2,Pan-India,Brand Website
+P00226,Serum,Skincare,Mamaearth,1092.92,50,Combination,Straight,Teen,Unisex,3,Occasional,Tea Tree,Citrus,Yes,No,No,6,North,Amazon
+P00227,Serum,Bodycare,Nivea,1213.89,15,Sensitive,Wavy,Teen,Female,2,Daily,Vitamin C,Unscented,No,Yes,No,8,East,Brand Website
+P00228,Face Wash,Skincare,Lakmé,1308.03,15,Dry,Straight,Teen,Unisex,2,Occasional,Coconut Oil,Citrus,No,No,No,10,East,Brand Website
+P00229,Serum,Skincare,Ponds,959.43,30,Sensitive,Curly,Adult,Unisex,1,Daily,Charcoal,Floral,Yes,No,No,7,East,Nykaa
+P00230,Conditioner,Makeup,Nivea,943.76,32,Dry,Coily,Teen,Unisex,5,Daily,Aloe Vera,Citrus,No,No,Yes,3,South,Amazon
+P00231,Deodorant,Makeup,Nivea,970.89,50,Sensitive,Wavy,Adult,Unisex,4,Weekly,Tea Tree,Woody,No,Yes,Yes,5,East,Nykaa
+P00232,Toner,Haircare,Neutrogena,998.74,15,Normal,Wavy,Adult,Unisex,3,Weekly,Charcoal,Fruity,No,Yes,Yes,10,East,Brand Website
+P00233,Conditioner,Makeup,Mamaearth,377.61,30,Normal,Straight,Teen,Unisex,3,Weekly,Rose Water,Citrus,Yes,No,Yes,3,West,Nykaa
+P00234,Face Wash,Bodycare,Lakmé,400.36,32,Dry,Straight,Teen,Unisex,4,Daily,Aloe Vera,Fruity,Yes,No,No,3,North,Flipkart
+P00235,Body Lotion,Fragrance,L'Oréal,798.42,50,Sensitive,Straight,Senior,Unisex,2,Daily,Rose Water,Unscented,Yes,Yes,Yes,2,Pan-India,Brand Website
+P00236,Toner,Makeup,Ponds,805.76,32,Combination,Straight,Teen,Female,5,Daily,Coconut Oil,Floral,No,Yes,Yes,6,North,Nykaa
+P00237,Toner,Makeup,Dove,938.58,50,Combination,Straight,Teen,Unisex,5,Daily,Rose Water,Unscented,Yes,No,No,8,South,Flipkart
+P00238,Deodorant,Bodycare,Garnier,1305.91,30,Oily,Straight,Adult,Male,2,Occasional,Tea Tree,Citrus,Yes,Yes,No,10,East,Brand Website
+P00239,Toner,Haircare,L'Oréal,302.05,30,Combination,Straight,Adult,Male,2,Occasional,Tea Tree,Floral,No,No,Yes,10,East,Myntra
+P00240,Conditioner,Haircare,Lakmé,736.2,30,Normal,Straight,Teen,Female,3,Weekly,Charcoal,Citrus,Yes,No,No,3,South,Brand Website
+P00241,Serum,Bodycare,L'Oréal,1162.64,30,Normal,Straight,Teen,Male,2,Daily,Rose Water,Citrus,Yes,Yes,Yes,8,East,Brand Website
+P00242,Face Wash,Haircare,Himalaya,1240.11,30,Dry,Straight,Teen,Male,2,Daily,Vitamin C,Woody,No,Yes,No,10,South,Amazon
+P00243,Shampoo,Skincare,Lakmé,1388.38,15,Oily,Straight,Adult,Female,3,Weekly,Charcoal,Unscented,No,No,No,10,East,Brand Website
+P00244,Conditioner,Haircare,Lakmé,796.5,50,Sensitive,Curly,Senior,Male,3,Weekly,Vitamin C,Floral,No,Yes,Yes,6,Pan-India,Myntra
+P00245,Moisturizer,Fragrance,Nivea,286.67,30,Normal,Straight,Teen,Male,5,Weekly,Vitamin C,Woody,No,Yes,No,2,North,Brand Website
+P00246,Lip Balm,Makeup,Nivea,562.03,30,Normal,Straight,Senior,Male,1,Occasional,Coconut Oil,Unscented,No,No,No,5,South,Nykaa
+P00247,Face Wash,Haircare,Biotique,633.14,50,Sensitive,Curly,Adult,Male,2,Occasional,Rose Water,Unscented,Yes,Yes,Yes,5,East,Nykaa
+P00248,Lip Balm,Fragrance,Himalaya,871.01,15,Dry,Straight,Teen,Unisex,4,Occasional,Coconut Oil,Citrus,No,No,No,4,Pan-India,Myntra
+P00249,Conditioner,Skincare,Ponds,900.49,32,Sensitive,Straight,Senior,Female,3,Daily,Charcoal,Fruity,No,Yes,No,2,Pan-India,Nykaa
+P00250,Deodorant,Skincare,Biotique,1387.64,15,Oily,Coily,Teen,Female,5,Daily,Charcoal,Citrus,Yes,Yes,No,6,Pan-India,Brand Website
+P00251,Conditioner,Skincare,Neutrogena,139.73,32,Oily,Coily,Senior,Male,1,Daily,Charcoal,Woody,No,No,Yes,2,Pan-India,Nykaa
+P00252,Shampoo,Haircare,Mamaearth,156.11,50,Sensitive,Curly,Adult,Female,5,Daily,Rose Water,Floral,No,Yes,Yes,6,West,Flipkart
+P00253,Face Wash,Skincare,Ponds,1077.93,15,Oily,Curly,Adult,Female,5,Weekly,Tea Tree,Woody,No,Yes,Yes,8,North,Nykaa
+P00254,Body Lotion,Fragrance,Mamaearth,750.66,30,Combination,Wavy,Adult,Unisex,4,Occasional,Aloe Vera,Floral,Yes,No,No,5,South,Amazon
+P00255,Face Wash,Fragrance,Biotique,91.46,30,Combination,Coily,Senior,Female,3,Daily,Vitamin C,Floral,No,No,Yes,1,Pan-India,Nykaa
+P00256,Body Lotion,Skincare,L'Oréal,729.69,32,Combination,Straight,Senior,Female,3,Weekly,Tea Tree,Citrus,Yes,No,No,6,Pan-India,Nykaa
+P00257,Deodorant,Fragrance,Biotique,312.91,32,Oily,Straight,Senior,Male,4,Daily,Vitamin C,Fruity,No,Yes,Yes,8,Pan-India,Flipkart
+P00258,Conditioner,Skincare,Dove,767.71,30,Dry,Straight,Teen,Male,3,Daily,Tea Tree,Fruity,Yes,Yes,Yes,7,West,Brand Website
+P00259,Deodorant,Skincare,Ponds,809.6,15,Oily,Wavy,Adult,Unisex,4,Daily,Coconut Oil,Woody,Yes,No,Yes,10,North,Brand Website
+P00260,Face Wash,Haircare,L'Oréal,423.97,50,Dry,Straight,Adult,Male,1,Occasional,Rose Water,Unscented,No,Yes,No,3,East,Nykaa
+P00261,Moisturizer,Skincare,Garnier,832.54,32,Normal,Straight,Adult,Male,2,Weekly,Coconut Oil,Floral,Yes,No,No,1,Pan-India,Nykaa
+P00262,Serum,Haircare,Biotique,570.77,15,Combination,Straight,Teen,Male,2,Daily,Rose Water,Woody,No,Yes,Yes,10,South,Flipkart
+P00263,Lip Balm,Haircare,L'Oréal,944.76,32,Sensitive,Straight,Teen,Female,2,Weekly,Rose Water,Citrus,Yes,No,No,2,North,Brand Website
+P00264,Serum,Fragrance,Lakmé,67.19,30,Normal,Coily,Adult,Female,2,Weekly,Charcoal,Floral,Yes,Yes,Yes,9,East,Nykaa
+P00265,Lip Balm,Skincare,Dove,1159.01,15,Normal,Straight,Adult,Unisex,5,Occasional,Rose Water,Fruity,Yes,No,Yes,2,North,Brand Website
+P00266,Serum,Bodycare,Dove,675.28,32,Normal,Straight,Senior,Female,1,Occasional,Vitamin C,Unscented,Yes,No,Yes,3,North,Myntra
+P00267,Toner,Skincare,Lakmé,1242.35,32,Oily,Straight,Adult,Unisex,1,Daily,Rose Water,Citrus,No,No,No,6,North,Brand Website
+P00268,Toner,Skincare,Biotique,263.99,15,Sensitive,Straight,Senior,Female,1,Weekly,Tea Tree,Floral,Yes,Yes,Yes,5,East,Amazon
+P00269,Lip Balm,Skincare,Lakmé,884.45,15,Sensitive,Straight,Senior,Male,4,Daily,Vitamin C,Citrus,No,Yes,Yes,9,West,Nykaa
+P00270,Shampoo,Makeup,Lakmé,1095.15,32,Sensitive,Straight,Adult,Unisex,2,Occasional,Vitamin C,Floral,Yes,No,No,10,West,Amazon
+P00271,Serum,Bodycare,Biotique,884.12,50,Sensitive,Coily,Teen,Unisex,1,Occasional,Coconut Oil,Floral,Yes,Yes,No,5,West,Myntra
+P00272,Toner,Fragrance,Garnier,484.92,15,Sensitive,Straight,Adult,Female,3,Occasional,Vitamin C,Unscented,No,No,Yes,5,Pan-India,Flipkart
+P00273,Sunscreen,Skincare,Garnier,1436.52,30,Dry,Straight,Senior,Unisex,3,Occasional,Aloe Vera,Floral,No,Yes,Yes,4,North,Flipkart
+P00274,Toner,Skincare,Himalaya,1397.53,30,Sensitive,Straight,Adult,Unisex,1,Daily,Rose Water,Woody,No,No,Yes,5,North,Flipkart
+P00275,Sunscreen,Skincare,Biotique,633.09,32,Normal,Curly,Senior,Male,4,Occasional,Coconut Oil,Citrus,No,Yes,Yes,9,West,Amazon
+P00276,Conditioner,Fragrance,Garnier,69.68,30,Oily,Wavy,Teen,Unisex,5,Occasional,Charcoal,Woody,Yes,Yes,No,5,South,Myntra
+P00277,Conditioner,Fragrance,Biotique,801.47,30,Normal,Straight,Senior,Male,2,Occasional,Coconut Oil,Fruity,No,Yes,No,3,South,Nykaa
+P00278,Toner,Makeup,Garnier,124.08,15,Normal,Wavy,Teen,Female,3,Weekly,Charcoal,Woody,Yes,No,No,9,South,Amazon
+P00279,Sunscreen,Haircare,Garnier,1016.32,30,Combination,Straight,Teen,Female,4,Weekly,Charcoal,Unscented,Yes,No,Yes,7,South,Brand Website
+P00280,Shampoo,Haircare,Ponds,1299.13,50,Normal,Straight,Senior,Female,2,Weekly,Coconut Oil,Citrus,No,No,No,9,Pan-India,Nykaa
+P00281,Face Wash,Skincare,Dove,612.9,32,Combination,Coily,Adult,Unisex,3,Daily,Charcoal,Citrus,No,Yes,No,2,Pan-India,Brand Website
+P00282,Lip Balm,Makeup,Lakmé,439.41,30,Dry,Straight,Adult,Female,1,Weekly,Charcoal,Woody,No,No,No,4,East,Amazon
+P00283,Conditioner,Haircare,Biotique,643.94,50,Oily,Coily,Adult,Unisex,4,Occasional,Aloe Vera,Floral,Yes,No,No,6,West,Amazon
+P00284,Shampoo,Bodycare,Neutrogena,654.23,50,Oily,Straight,Adult,Unisex,1,Daily,Aloe Vera,Citrus,Yes,No,No,4,Pan-India,Myntra
+P00285,Deodorant,Haircare,L'Oréal,929.54,30,Combination,Straight,Adult,Unisex,2,Daily,Aloe Vera,Floral,No,Yes,No,6,West,Brand Website
+P00286,Deodorant,Bodycare,Ponds,131.09,50,Sensitive,Straight,Teen,Male,5,Weekly,Aloe Vera,Citrus,Yes,Yes,Yes,5,South,Nykaa
+P00287,Deodorant,Makeup,Ponds,377.1,50,Oily,Straight,Adult,Male,2,Weekly,Charcoal,Floral,Yes,Yes,Yes,3,East,Flipkart
+P00288,Conditioner,Haircare,Himalaya,480.11,15,Dry,Straight,Senior,Female,2,Occasional,Tea Tree,Citrus,No,No,Yes,3,South,Nykaa
+P00289,Deodorant,Makeup,Mamaearth,1492.69,32,Oily,Straight,Teen,Unisex,2,Occasional,Coconut Oil,Floral,No,Yes,No,8,South,Myntra
+P00290,Conditioner,Bodycare,Biotique,1493.1,30,Sensitive,Straight,Senior,Female,4,Weekly,Charcoal,Citrus,No,Yes,Yes,1,Pan-India,Myntra
+P00291,Serum,Haircare,Lakmé,717.52,30,Oily,Curly,Teen,Unisex,5,Daily,Tea Tree,Fruity,No,No,Yes,6,East,Brand Website
+P00292,Moisturizer,Haircare,Garnier,532.42,15,Sensitive,Straight,Senior,Unisex,1,Occasional,Rose Water,Fruity,Yes,No,No,10,Pan-India,Flipkart
+P00293,Moisturizer,Haircare,Nivea,1390.71,32,Combination,Curly,Teen,Unisex,5,Daily,Tea Tree,Fruity,No,Yes,No,4,North,Brand Website
+P00294,Moisturizer,Fragrance,Ponds,533.84,32,Sensitive,Straight,Senior,Male,5,Weekly,Charcoal,Floral,No,Yes,No,8,West,Flipkart
+P00295,Lip Balm,Makeup,Himalaya,1059.59,32,Sensitive,Straight,Teen,Female,3,Occasional,Charcoal,Fruity,No,Yes,No,2,Pan-India,Brand Website
+P00296,Conditioner,Bodycare,Garnier,94.33,50,Combination,Straight,Senior,Male,1,Weekly,Charcoal,Fruity,No,No,No,7,East,Flipkart
+P00297,Shampoo,Makeup,Garnier,696.05,30,Dry,Coily,Teen,Female,2,Occasional,Vitamin C,Floral,Yes,Yes,No,1,North,Brand Website
+P00298,Moisturizer,Skincare,Ponds,317.05,15,Oily,Wavy,Teen,Unisex,3,Weekly,Vitamin C,Unscented,No,Yes,Yes,1,West,Nykaa
+P00299,Shampoo,Fragrance,Dove,445.3,32,Sensitive,Straight,Teen,Unisex,1,Occasional,Charcoal,Fruity,No,No,No,9,Pan-India,Nykaa
+P00300,Conditioner,Fragrance,Ponds,603.19,30,Normal,Straight,Teen,Male,1,Weekly,Rose Water,Woody,No,No,No,5,West,Flipkart
+P00301,Sunscreen,Makeup,Ponds,802.34,15,Oily,Straight,Teen,Unisex,4,Daily,Aloe Vera,Floral,No,No,Yes,8,East,Brand Website
+P00302,Toner,Fragrance,Himalaya,506.18,32,Combination,Coily,Senior,Unisex,3,Weekly,Charcoal,Floral,Yes,Yes,No,1,East,Flipkart
+P00303,Sunscreen,Bodycare,Mamaearth,402.26,30,Oily,Curly,Adult,Female,5,Occasional,Aloe Vera,Fruity,Yes,No,No,6,South,Amazon
+P00304,Face Wash,Makeup,Garnier,398.81,15,Oily,Coily,Senior,Male,1,Occasional,Rose Water,Woody,No,No,No,6,Pan-India,Nykaa
+P00305,Lip Balm,Fragrance,Nivea,1224.86,30,Sensitive,Straight,Senior,Male,5,Daily,Charcoal,Floral,No,Yes,No,2,Pan-India,Amazon
+P00306,Sunscreen,Bodycare,Neutrogena,1378.74,30,Normal,Straight,Senior,Female,1,Weekly,Vitamin C,Unscented,No,Yes,Yes,1,Pan-India,Myntra
+P00307,Lip Balm,Fragrance,L'Oréal,684.79,30,Normal,Straight,Adult,Male,5,Weekly,Coconut Oil,Woody,No,Yes,No,4,West,Brand Website
+P00308,Lip Balm,Bodycare,Mamaearth,676.81,30,Oily,Coily,Senior,Female,2,Daily,Vitamin C,Woody,No,Yes,Yes,6,West,Nykaa
+P00309,Body Lotion,Fragrance,Himalaya,774.67,32,Oily,Straight,Senior,Male,4,Occasional,Coconut Oil,Fruity,Yes,No,Yes,8,West,Nykaa
+P00310,Conditioner,Bodycare,Himalaya,300.13,15,Combination,Straight,Adult,Male,2,Daily,Vitamin C,Woody,Yes,No,Yes,8,West,Nykaa
+P00311,Toner,Skincare,Himalaya,719.28,30,Normal,Wavy,Senior,Unisex,3,Daily,Aloe Vera,Citrus,Yes,No,Yes,8,North,Amazon
+P00312,Sunscreen,Fragrance,Lakmé,1458.94,30,Oily,Straight,Senior,Female,3,Occasional,Rose Water,Fruity,Yes,Yes,Yes,4,West,Flipkart
+P00313,Serum,Makeup,Himalaya,902.07,32,Normal,Coily,Teen,Female,2,Daily,Aloe Vera,Woody,No,No,Yes,5,Pan-India,Nykaa
+P00314,Shampoo,Haircare,L'Oréal,1041.42,50,Combination,Straight,Senior,Unisex,4,Weekly,Vitamin C,Woody,No,No,Yes,3,South,Myntra
+P00315,Deodorant,Skincare,Garnier,831.64,50,Combination,Straight,Teen,Unisex,1,Occasional,Charcoal,Unscented,No,Yes,No,2,Pan-India,Myntra
+P00316,Shampoo,Makeup,Lakmé,433.8,32,Combination,Straight,Adult,Unisex,4,Weekly,Tea Tree,Unscented,No,No,No,8,North,Flipkart
+P00317,Lip Balm,Fragrance,Garnier,530.39,30,Normal,Straight,Adult,Male,2,Occasional,Tea Tree,Unscented,Yes,Yes,Yes,6,West,Brand Website
+P00318,Lip Balm,Makeup,L'Oréal,532.05,30,Dry,Wavy,Adult,Female,4,Weekly,Coconut Oil,Floral,Yes,Yes,Yes,10,Pan-India,Myntra
+P00319,Lip Balm,Fragrance,Ponds,604.82,30,Oily,Coily,Adult,Unisex,4,Weekly,Rose Water,Floral,Yes,Yes,No,2,South,Flipkart
+P00320,Toner,Bodycare,Biotique,1126.36,15,Dry,Straight,Adult,Female,4,Weekly,Coconut Oil,Unscented,Yes,Yes,Yes,2,East,Amazon
+P00321,Lip Balm,Bodycare,Mamaearth,678.29,15,Sensitive,Straight,Adult,Female,4,Daily,Charcoal,Unscented,No,Yes,No,7,East,Nykaa
+P00322,Moisturizer,Makeup,Garnier,415.29,30,Dry,Curly,Teen,Female,5,Daily,Tea Tree,Unscented,No,Yes,No,2,Pan-India,Amazon
+P00323,Lip Balm,Skincare,Lakmé,1204.51,15,Combination,Wavy,Teen,Male,5,Weekly,Rose Water,Fruity,Yes,No,No,3,South,Myntra
+P00324,Shampoo,Makeup,Mamaearth,1173.13,32,Oily,Straight,Teen,Unisex,3,Daily,Tea Tree,Woody,Yes,Yes,Yes,5,West,Brand Website
+P00325,Serum,Fragrance,Himalaya,889.98,50,Combination,Wavy,Senior,Unisex,2,Weekly,Vitamin C,Floral,Yes,No,No,7,West,Nykaa
+P00326,Serum,Skincare,Garnier,1052.14,50,Normal,Curly,Senior,Female,2,Occasional,Rose Water,Unscented,No,Yes,No,3,North,Nykaa
+P00327,Sunscreen,Skincare,Biotique,275.36,32,Combination,Straight,Adult,Unisex,2,Occasional,Vitamin C,Citrus,No,Yes,No,9,North,Brand Website
+P00328,Sunscreen,Skincare,Dove,1112.01,15,Combination,Straight,Adult,Female,4,Weekly,Charcoal,Floral,No,Yes,No,3,South,Flipkart
+P00329,Toner,Haircare,Ponds,1115.6,30,Sensitive,Straight,Senior,Unisex,5,Occasional,Tea Tree,Fruity,Yes,No,No,3,Pan-India,Myntra
+P00330,Lip Balm,Skincare,Biotique,1109.12,32,Sensitive,Straight,Teen,Female,3,Weekly,Coconut Oil,Fruity,Yes,Yes,Yes,1,North,Amazon
+P00331,Face Wash,Bodycare,Neutrogena,1247.1,50,Dry,Straight,Adult,Female,5,Weekly,Vitamin C,Citrus,Yes,No,Yes,7,Pan-India,Amazon
+P00332,Body Lotion,Makeup,Dove,1193.07,32,Oily,Straight,Adult,Female,3,Occasional,Vitamin C,Floral,Yes,No,Yes,5,South,Myntra
+P00333,Moisturizer,Fragrance,Garnier,1123.93,32,Sensitive,Curly,Teen,Unisex,3,Occasional,Coconut Oil,Citrus,Yes,Yes,Yes,3,East,Myntra
+P00334,Body Lotion,Makeup,Neutrogena,937.37,30,Sensitive,Straight,Teen,Female,2,Daily,Aloe Vera,Citrus,No,Yes,Yes,5,South,Brand Website
+P00335,Moisturizer,Haircare,Biotique,1412.58,30,Sensitive,Curly,Adult,Female,1,Weekly,Rose Water,Woody,Yes,No,No,6,Pan-India,Flipkart
+P00336,Toner,Skincare,Himalaya,875.62,50,Sensitive,Wavy,Adult,Unisex,2,Weekly,Coconut Oil,Unscented,No,Yes,No,1,East,Flipkart
+P00337,Conditioner,Haircare,Lakmé,135.2,50,Oily,Curly,Teen,Male,3,Daily,Charcoal,Citrus,Yes,Yes,No,6,West,Brand Website
+P00338,Face Wash,Haircare,Dove,449.83,30,Combination,Wavy,Senior,Unisex,3,Daily,Vitamin C,Citrus,No,No,Yes,8,South,Myntra
+P00339,Moisturizer,Makeup,Dove,75.04,32,Normal,Straight,Adult,Female,1,Daily,Coconut Oil,Citrus,No,No,No,4,East,Amazon
+P00340,Moisturizer,Skincare,Dove,1024.03,50,Combination,Curly,Senior,Female,4,Daily,Rose Water,Citrus,Yes,No,No,9,Pan-India,Flipkart
+P00341,Serum,Fragrance,Nivea,825.1,15,Dry,Coily,Teen,Unisex,2,Occasional,Coconut Oil,Fruity,Yes,No,No,5,West,Nykaa
+P00342,Conditioner,Fragrance,Himalaya,1225.72,50,Combination,Straight,Adult,Unisex,1,Occasional,Tea Tree,Citrus,Yes,Yes,Yes,7,Pan-India,Amazon
+P00343,Moisturizer,Skincare,Neutrogena,768.51,15,Dry,Straight,Adult,Male,4,Weekly,Vitamin C,Fruity,Yes,No,Yes,3,South,Brand Website
+P00344,Sunscreen,Skincare,Biotique,1336.27,50,Combination,Straight,Senior,Male,4,Occasional,Charcoal,Floral,Yes,Yes,No,6,North,Flipkart
+P00345,Lip Balm,Skincare,Lakmé,497.2,50,Sensitive,Straight,Teen,Unisex,5,Weekly,Tea Tree,Unscented,No,No,Yes,8,East,Brand Website
+P00346,Lip Balm,Skincare,Mamaearth,1348.04,15,Combination,Straight,Teen,Male,5,Daily,Charcoal,Fruity,No,No,Yes,5,South,Flipkart
+P00347,Sunscreen,Haircare,Dove,1192.89,32,Normal,Straight,Teen,Unisex,2,Weekly,Aloe Vera,Unscented,No,Yes,Yes,10,East,Brand Website
+P00348,Lip Balm,Bodycare,Ponds,96.39,30,Oily,Straight,Teen,Female,1,Occasional,Coconut Oil,Woody,Yes,Yes,Yes,5,Pan-India,Myntra
+P00349,Body Lotion,Bodycare,L'Oréal,255.88,30,Oily,Curly,Teen,Unisex,2,Weekly,Rose Water,Unscented,No,Yes,No,4,West,Brand Website
+P00350,Lip Balm,Bodycare,Nivea,1419.43,30,Combination,Straight,Adult,Female,3,Daily,Coconut Oil,Woody,Yes,Yes,No,1,South,Nykaa
+P00351,Moisturizer,Fragrance,Ponds,1150.77,32,Combination,Straight,Senior,Unisex,3,Weekly,Tea Tree,Citrus,No,No,No,7,Pan-India,Nykaa
+P00352,Deodorant,Bodycare,Ponds,781.07,15,Dry,Straight,Teen,Unisex,1,Occasional,Vitamin C,Unscented,Yes,No,Yes,8,East,Brand Website
+P00353,Lip Balm,Bodycare,Nivea,1373.4,15,Normal,Curly,Senior,Female,4,Weekly,Rose Water,Floral,No,No,Yes,6,East,Nykaa
+P00354,Moisturizer,Skincare,Garnier,1051.97,32,Sensitive,Wavy,Teen,Female,5,Daily,Vitamin C,Unscented,Yes,Yes,Yes,8,North,Flipkart
+P00355,Face Wash,Skincare,Biotique,1476.69,32,Oily,Curly,Adult,Male,2,Weekly,Aloe Vera,Fruity,Yes,Yes,Yes,3,Pan-India,Flipkart
+P00356,Sunscreen,Makeup,Himalaya,480.6,32,Normal,Straight,Teen,Female,5,Daily,Coconut Oil,Unscented,No,No,Yes,3,Pan-India,Flipkart
+P00357,Serum,Makeup,Lakmé,1306.74,15,Normal,Straight,Adult,Unisex,5,Occasional,Charcoal,Unscented,Yes,Yes,No,9,Pan-India,Nykaa
+P00358,Body Lotion,Makeup,Garnier,1383.39,32,Sensitive,Wavy,Teen,Female,2,Occasional,Tea Tree,Floral,No,Yes,No,4,South,Flipkart
+P00359,Toner,Haircare,Himalaya,170.86,15,Sensitive,Straight,Adult,Female,4,Occasional,Vitamin C,Citrus,No,No,Yes,4,Pan-India,Brand Website
+P00360,Conditioner,Fragrance,Biotique,209.65,50,Sensitive,Curly,Senior,Female,5,Occasional,Rose Water,Woody,Yes,Yes,No,1,North,Brand Website
+P00361,Sunscreen,Haircare,Mamaearth,645.38,30,Combination,Straight,Teen,Male,3,Weekly,Aloe Vera,Floral,No,No,No,5,East,Amazon
+P00362,Deodorant,Fragrance,Nivea,374.68,50,Oily,Straight,Senior,Unisex,4,Daily,Rose Water,Woody,No,No,Yes,10,Pan-India,Amazon
+P00363,Moisturizer,Haircare,Garnier,50.67,50,Combination,Wavy,Teen,Female,1,Weekly,Charcoal,Woody,No,No,No,5,Pan-India,Nykaa
+P00364,Moisturizer,Makeup,Himalaya,1214.47,30,Dry,Straight,Senior,Male,2,Weekly,Aloe Vera,Fruity,No,No,No,6,South,Nykaa
+P00365,Moisturizer,Haircare,Mamaearth,430.6,50,Normal,Straight,Adult,Unisex,1,Daily,Charcoal,Woody,Yes,Yes,Yes,4,East,Myntra
+P00366,Face Wash,Fragrance,Biotique,1363.77,30,Oily,Straight,Adult,Male,5,Daily,Vitamin C,Fruity,Yes,No,No,2,East,Flipkart
+P00367,Moisturizer,Haircare,Neutrogena,1124.16,32,Sensitive,Straight,Adult,Female,1,Occasional,Aloe Vera,Unscented,Yes,No,No,10,South,Flipkart
+P00368,Lip Balm,Skincare,Nivea,1443.58,15,Combination,Straight,Teen,Female,1,Weekly,Vitamin C,Citrus,No,Yes,No,3,North,Amazon
+P00369,Shampoo,Haircare,Himalaya,700.04,32,Dry,Straight,Adult,Female,2,Daily,Charcoal,Fruity,Yes,Yes,Yes,10,North,Amazon
+P00370,Sunscreen,Skincare,Ponds,218.27,15,Oily,Straight,Senior,Male,5,Weekly,Tea Tree,Fruity,Yes,Yes,Yes,5,South,Nykaa
+P00371,Body Lotion,Fragrance,Himalaya,182.47,50,Oily,Coily,Senior,Male,4,Daily,Tea Tree,Woody,No,No,No,9,South,Myntra
+P00372,Serum,Fragrance,Mamaearth,1101.47,30,Oily,Straight,Senior,Unisex,5,Weekly,Charcoal,Fruity,Yes,Yes,Yes,1,North,Myntra
+P00373,Toner,Bodycare,Neutrogena,423.71,30,Oily,Straight,Teen,Male,2,Daily,Rose Water,Citrus,Yes,Yes,Yes,2,Pan-India,Amazon
+P00374,Shampoo,Haircare,Dove,105.13,50,Normal,Wavy,Teen,Female,3,Weekly,Coconut Oil,Unscented,No,Yes,No,10,Pan-India,Amazon
+P00375,Deodorant,Haircare,Ponds,1438.8,30,Combination,Curly,Teen,Unisex,2,Weekly,Tea Tree,Floral,No,Yes,No,8,North,Amazon
+P00376,Lip Balm,Bodycare,Biotique,757.81,30,Dry,Straight,Senior,Unisex,4,Occasional,Rose Water,Woody,Yes,No,Yes,9,North,Nykaa
+P00377,Deodorant,Skincare,Garnier,543.98,15,Combination,Coily,Teen,Female,4,Daily,Coconut Oil,Floral,Yes,Yes,Yes,9,North,Flipkart
+P00378,Deodorant,Skincare,Himalaya,831.82,15,Sensitive,Straight,Teen,Male,3,Weekly,Coconut Oil,Woody,No,Yes,No,5,West,Nykaa
+P00379,Moisturizer,Makeup,Ponds,636.29,50,Normal,Straight,Senior,Male,4,Daily,Rose Water,Floral,Yes,Yes,No,8,East,Myntra
+P00380,Deodorant,Haircare,Ponds,1282.37,50,Oily,Wavy,Senior,Male,4,Occasional,Charcoal,Woody,Yes,No,No,10,South,Myntra
+P00381,Shampoo,Fragrance,Biotique,535.4,32,Normal,Curly,Adult,Female,1,Weekly,Aloe Vera,Woody,No,No,No,3,East,Brand Website
+P00382,Conditioner,Fragrance,Dove,1319.41,32,Normal,Straight,Adult,Unisex,3,Occasional,Rose Water,Woody,Yes,Yes,Yes,4,South,Flipkart
+P00383,Sunscreen,Makeup,Himalaya,536.71,15,Combination,Coily,Teen,Female,1,Daily,Aloe Vera,Fruity,Yes,Yes,No,7,East,Amazon
+P00384,Sunscreen,Fragrance,Nivea,383.29,50,Oily,Straight,Senior,Unisex,4,Daily,Tea Tree,Citrus,Yes,No,No,7,Pan-India,Nykaa
+P00385,Moisturizer,Haircare,Biotique,759.93,50,Normal,Straight,Teen,Male,2,Daily,Rose Water,Woody,Yes,No,No,10,Pan-India,Amazon
+P00386,Deodorant,Skincare,Lakmé,460.86,32,Dry,Straight,Adult,Female,5,Weekly,Coconut Oil,Fruity,Yes,No,No,1,East,Brand Website
+P00387,Moisturizer,Bodycare,Himalaya,701.0,30,Oily,Curly,Teen,Unisex,4,Weekly,Charcoal,Citrus,Yes,Yes,Yes,6,East,Myntra
+P00388,Body Lotion,Bodycare,Himalaya,1086.5,32,Oily,Straight,Senior,Unisex,4,Daily,Charcoal,Floral,Yes,Yes,Yes,3,West,Nykaa
+P00389,Face Wash,Bodycare,Dove,1142.88,32,Combination,Straight,Adult,Male,2,Weekly,Vitamin C,Citrus,Yes,Yes,No,10,West,Myntra
+P00390,Deodorant,Fragrance,Lakmé,1324.15,32,Combination,Straight,Senior,Unisex,5,Occasional,Coconut Oil,Floral,Yes,Yes,No,8,South,Myntra
+P00391,Shampoo,Skincare,Himalaya,1192.67,32,Oily,Coily,Teen,Unisex,1,Daily,Coconut Oil,Floral,No,Yes,No,2,West,Amazon
+P00392,Deodorant,Fragrance,Mamaearth,763.85,15,Dry,Straight,Senior,Male,4,Occasional,Vitamin C,Unscented,Yes,Yes,No,5,West,Amazon
+P00393,Body Lotion,Fragrance,Ponds,90.22,50,Normal,Straight,Teen,Male,1,Weekly,Coconut Oil,Woody,No,No,No,10,South,Amazon
+P00394,Shampoo,Fragrance,Lakmé,1186.04,15,Normal,Curly,Senior,Male,4,Daily,Charcoal,Unscented,No,No,No,5,Pan-India,Amazon
+P00395,Deodorant,Skincare,Biotique,1133.91,32,Normal,Straight,Adult,Unisex,2,Occasional,Tea Tree,Unscented,No,Yes,Yes,6,South,Flipkart
+P00396,Toner,Bodycare,Neutrogena,953.14,15,Combination,Straight,Adult,Unisex,1,Weekly,Tea Tree,Fruity,Yes,Yes,No,7,Pan-India,Myntra
+P00397,Shampoo,Fragrance,Dove,282.12,32,Dry,Straight,Adult,Female,4,Daily,Rose Water,Unscented,No,Yes,Yes,10,Pan-India,Amazon
+P00398,Conditioner,Bodycare,Lakmé,1308.63,30,Oily,Straight,Senior,Unisex,5,Occasional,Charcoal,Fruity,No,No,No,1,East,Amazon
+P00399,Deodorant,Fragrance,Dove,438.54,50,Dry,Wavy,Adult,Male,3,Occasional,Vitamin C,Unscented,Yes,No,Yes,5,North,Amazon
+P00400,Serum,Skincare,Nivea,655.43,30,Combination,Straight,Adult,Male,1,Weekly,Charcoal,Unscented,No,No,Yes,10,Pan-India,Brand Website
+P00401,Moisturizer,Bodycare,L'Oréal,668.2,32,Combination,Straight,Adult,Male,2,Daily,Aloe Vera,Floral,No,No,No,7,North,Nykaa
+P00402,Deodorant,Fragrance,Mamaearth,949.8,50,Combination,Straight,Adult,Unisex,5,Weekly,Coconut Oil,Citrus,Yes,Yes,No,9,South,Nykaa
+P00403,Moisturizer,Haircare,Himalaya,793.43,30,Combination,Straight,Senior,Female,2,Weekly,Aloe Vera,Unscented,No,Yes,No,2,North,Brand Website
+P00404,Deodorant,Skincare,L'Oréal,828.56,30,Dry,Straight,Teen,Female,5,Occasional,Coconut Oil,Fruity,Yes,Yes,Yes,9,South,Flipkart
+P00405,Lip Balm,Haircare,Mamaearth,1056.35,30,Normal,Straight,Senior,Male,5,Daily,Aloe Vera,Fruity,No,No,Yes,5,East,Myntra
+P00406,Body Lotion,Bodycare,Lakmé,361.49,32,Normal,Curly,Adult,Male,4,Weekly,Rose Water,Floral,No,Yes,Yes,5,Pan-India,Nykaa
+P00407,Conditioner,Haircare,Dove,836.49,15,Normal,Straight,Adult,Male,5,Daily,Coconut Oil,Citrus,No,Yes,No,6,West,Brand Website
+P00408,Sunscreen,Makeup,Garnier,189.02,50,Oily,Curly,Teen,Female,4,Weekly,Aloe Vera,Woody,No,No,No,8,South,Flipkart
+P00409,Toner,Fragrance,Himalaya,497.14,32,Dry,Wavy,Adult,Unisex,5,Daily,Rose Water,Fruity,No,No,No,3,East,Brand Website
+P00410,Deodorant,Skincare,Nivea,933.36,15,Sensitive,Wavy,Adult,Unisex,4,Weekly,Tea Tree,Unscented,No,Yes,No,6,West,Amazon
+P00411,Deodorant,Fragrance,Garnier,920.22,32,Dry,Straight,Adult,Male,4,Daily,Charcoal,Fruity,Yes,No,No,3,West,Myntra
+P00412,Shampoo,Makeup,Garnier,221.52,15,Dry,Straight,Adult,Unisex,3,Occasional,Charcoal,Woody,Yes,No,Yes,2,South,Nykaa
+P00413,Conditioner,Haircare,Neutrogena,1343.41,30,Sensitive,Wavy,Teen,Male,5,Weekly,Charcoal,Citrus,Yes,Yes,Yes,5,South,Flipkart
+P00414,Conditioner,Fragrance,Himalaya,625.45,32,Combination,Coily,Adult,Female,3,Weekly,Charcoal,Woody,No,No,Yes,5,East,Amazon
+P00415,Toner,Skincare,Mamaearth,789.88,50,Dry,Wavy,Teen,Male,1,Weekly,Vitamin C,Fruity,Yes,No,No,10,North,Myntra
+P00416,Sunscreen,Skincare,L'Oréal,812.02,15,Oily,Straight,Teen,Unisex,5,Weekly,Tea Tree,Floral,No,No,No,9,East,Myntra
+P00417,Serum,Bodycare,L'Oréal,1323.65,32,Combination,Straight,Adult,Unisex,5,Weekly,Vitamin C,Citrus,No,No,Yes,7,East,Flipkart
+P00418,Moisturizer,Bodycare,Neutrogena,551.7,30,Dry,Coily,Senior,Unisex,4,Occasional,Rose Water,Fruity,Yes,Yes,Yes,4,Pan-India,Flipkart
+P00419,Shampoo,Skincare,Mamaearth,251.91,32,Combination,Straight,Teen,Male,3,Weekly,Vitamin C,Woody,Yes,Yes,Yes,5,North,Flipkart
+P00420,Conditioner,Makeup,Neutrogena,621.2,30,Combination,Wavy,Adult,Female,2,Weekly,Coconut Oil,Unscented,Yes,Yes,Yes,4,South,Flipkart
+P00421,Shampoo,Makeup,Himalaya,50.18,15,Dry,Straight,Teen,Female,3,Weekly,Rose Water,Fruity,Yes,Yes,No,4,Pan-India,Nykaa
+P00422,Deodorant,Makeup,Nivea,87.9,50,Normal,Straight,Adult,Female,4,Daily,Rose Water,Fruity,No,No,Yes,4,West,Nykaa
+P00423,Shampoo,Haircare,Ponds,940.25,50,Oily,Straight,Adult,Male,5,Occasional,Tea Tree,Unscented,Yes,No,Yes,3,West,Amazon
+P00424,Shampoo,Fragrance,Garnier,829.42,32,Normal,Wavy,Senior,Female,1,Daily,Tea Tree,Citrus,Yes,No,No,3,North,Myntra
+P00425,Toner,Bodycare,Neutrogena,587.75,15,Combination,Wavy,Senior,Male,2,Daily,Charcoal,Floral,Yes,No,Yes,10,North,Nykaa
+P00426,Lip Balm,Makeup,Garnier,588.11,30,Oily,Straight,Teen,Unisex,3,Daily,Vitamin C,Woody,Yes,Yes,No,6,East,Myntra
+P00427,Lip Balm,Haircare,Garnier,1022.64,30,Dry,Straight,Adult,Male,2,Daily,Rose Water,Fruity,Yes,No,No,1,North,Amazon
+P00428,Deodorant,Skincare,Lakmé,349.58,15,Sensitive,Straight,Teen,Male,5,Daily,Vitamin C,Woody,No,Yes,Yes,4,Pan-India,Brand Website
+P00429,Body Lotion,Makeup,Dove,1208.53,30,Normal,Straight,Adult,Female,4,Occasional,Aloe Vera,Floral,Yes,Yes,No,3,East,Brand Website
+P00430,Conditioner,Bodycare,Nivea,1456.75,15,Dry,Curly,Senior,Male,2,Weekly,Tea Tree,Unscented,No,Yes,No,8,West,Myntra
+P00431,Sunscreen,Fragrance,Dove,433.51,50,Combination,Straight,Teen,Male,4,Daily,Tea Tree,Floral,No,Yes,Yes,1,North,Brand Website
+P00432,Serum,Fragrance,Biotique,1161.13,15,Oily,Straight,Teen,Female,1,Daily,Tea Tree,Woody,Yes,No,No,1,South,Flipkart
+P00433,Sunscreen,Fragrance,Neutrogena,160.92,50,Combination,Wavy,Teen,Unisex,2,Occasional,Aloe Vera,Floral,Yes,No,No,8,West,Brand Website
+P00434,Lip Balm,Skincare,Ponds,237.62,15,Oily,Curly,Teen,Female,3,Weekly,Aloe Vera,Citrus,No,Yes,No,2,South,Myntra
+P00435,Conditioner,Fragrance,Lakmé,1042.15,50,Combination,Straight,Teen,Unisex,3,Daily,Coconut Oil,Citrus,No,Yes,Yes,6,Pan-India,Amazon
+P00436,Lip Balm,Bodycare,Mamaearth,1004.81,50,Normal,Straight,Senior,Unisex,3,Occasional,Charcoal,Fruity,No,No,No,7,North,Myntra
+P00437,Face Wash,Skincare,Dove,97.29,15,Oily,Straight,Teen,Unisex,2,Occasional,Charcoal,Floral,Yes,No,No,10,Pan-India,Brand Website
+P00438,Deodorant,Fragrance,Ponds,340.67,30,Combination,Straight,Adult,Male,3,Occasional,Tea Tree,Woody,Yes,Yes,No,7,North,Amazon
+P00439,Deodorant,Skincare,Ponds,893.49,32,Dry,Curly,Teen,Female,3,Weekly,Coconut Oil,Fruity,Yes,Yes,Yes,7,East,Brand Website
+P00440,Serum,Bodycare,Mamaearth,1340.73,32,Combination,Curly,Adult,Male,3,Daily,Vitamin C,Floral,No,Yes,Yes,9,Pan-India,Brand Website
+P00441,Face Wash,Makeup,Himalaya,1105.74,32,Dry,Coily,Teen,Female,5,Daily,Aloe Vera,Fruity,Yes,Yes,No,9,Pan-India,Amazon
+P00442,Deodorant,Bodycare,L'Oréal,267.06,50,Combination,Straight,Adult,Female,1,Weekly,Charcoal,Woody,Yes,No,No,10,East,Flipkart
+P00443,Shampoo,Skincare,Mamaearth,824.4,50,Sensitive,Straight,Adult,Female,2,Occasional,Tea Tree,Floral,Yes,Yes,Yes,10,West,Myntra
+P00444,Deodorant,Skincare,Mamaearth,750.53,30,Combination,Curly,Adult,Male,4,Daily,Aloe Vera,Floral,No,No,No,7,Pan-India,Flipkart
+P00445,Moisturizer,Haircare,Garnier,401.87,15,Combination,Curly,Adult,Female,1,Occasional,Charcoal,Citrus,No,Yes,Yes,6,East,Amazon
+P00446,Toner,Haircare,Ponds,529.12,30,Oily,Straight,Senior,Male,2,Weekly,Vitamin C,Floral,Yes,Yes,No,8,Pan-India,Brand Website
+P00447,Deodorant,Skincare,Biotique,890.17,50,Dry,Straight,Teen,Male,3,Daily,Vitamin C,Unscented,Yes,Yes,Yes,2,East,Flipkart
+P00448,Toner,Bodycare,L'Oréal,767.25,15,Dry,Straight,Senior,Unisex,1,Weekly,Coconut Oil,Citrus,No,Yes,No,9,West,Brand Website
+P00449,Toner,Bodycare,Himalaya,895.84,50,Sensitive,Straight,Senior,Male,3,Occasional,Aloe Vera,Woody,No,No,Yes,1,West,Amazon
+P00450,Conditioner,Makeup,Ponds,265.14,15,Dry,Straight,Senior,Unisex,3,Daily,Vitamin C,Woody,No,No,Yes,8,West,Brand Website
+P00451,Serum,Bodycare,Garnier,979.49,15,Oily,Straight,Adult,Male,5,Daily,Vitamin C,Fruity,No,No,Yes,2,West,Flipkart
+P00452,Conditioner,Makeup,Garnier,242.68,15,Sensitive,Curly,Senior,Female,1,Occasional,Tea Tree,Unscented,No,Yes,No,8,South,Nykaa
+P00453,Moisturizer,Skincare,Lakmé,1186.85,50,Normal,Curly,Adult,Male,3,Occasional,Aloe Vera,Floral,Yes,No,Yes,10,Pan-India,Flipkart
+P00454,Body Lotion,Bodycare,Neutrogena,683.03,30,Sensitive,Straight,Senior,Unisex,2,Weekly,Tea Tree,Citrus,Yes,Yes,Yes,6,North,Amazon
+P00455,Serum,Makeup,L'Oréal,610.13,32,Combination,Curly,Senior,Female,3,Weekly,Vitamin C,Floral,Yes,No,Yes,1,West,Myntra
+P00456,Face Wash,Makeup,Neutrogena,1299.34,50,Oily,Straight,Senior,Unisex,2,Weekly,Tea Tree,Woody,No,Yes,Yes,10,East,Myntra
+P00457,Serum,Fragrance,Neutrogena,1456.95,15,Oily,Straight,Adult,Male,4,Weekly,Aloe Vera,Floral,Yes,Yes,No,3,North,Brand Website
+P00458,Serum,Haircare,Dove,1220.56,50,Combination,Straight,Teen,Unisex,3,Weekly,Vitamin C,Floral,No,Yes,No,9,North,Brand Website
+P00459,Shampoo,Skincare,Biotique,407.1,50,Combination,Straight,Teen,Male,4,Daily,Tea Tree,Woody,No,Yes,Yes,10,North,Nykaa
+P00460,Serum,Makeup,Nivea,619.19,15,Normal,Straight,Teen,Female,3,Occasional,Charcoal,Fruity,Yes,No,No,10,South,Flipkart
+P00461,Body Lotion,Skincare,Ponds,168.96,15,Sensitive,Straight,Teen,Unisex,5,Weekly,Tea Tree,Floral,No,No,Yes,1,South,Myntra
+P00462,Serum,Bodycare,Dove,370.29,30,Oily,Curly,Senior,Male,4,Daily,Charcoal,Unscented,Yes,No,No,10,South,Flipkart
+P00463,Face Wash,Fragrance,Himalaya,328.4,30,Sensitive,Straight,Adult,Unisex,4,Weekly,Tea Tree,Fruity,No,No,No,5,East,Nykaa
+P00464,Moisturizer,Haircare,Biotique,382.41,50,Normal,Straight,Senior,Unisex,2,Occasional,Coconut Oil,Citrus,Yes,Yes,No,5,North,Brand Website
+P00465,Deodorant,Makeup,Lakmé,1104.17,32,Sensitive,Curly,Senior,Female,4,Weekly,Rose Water,Citrus,Yes,Yes,Yes,5,South,Flipkart
+P00466,Moisturizer,Makeup,Himalaya,625.99,50,Combination,Straight,Teen,Female,5,Occasional,Aloe Vera,Citrus,Yes,Yes,Yes,10,South,Flipkart
+P00467,Body Lotion,Bodycare,Nivea,1024.96,15,Sensitive,Curly,Senior,Male,2,Weekly,Rose Water,Citrus,Yes,No,No,1,South,Myntra
+P00468,Serum,Skincare,Nivea,671.11,50,Dry,Straight,Adult,Female,5,Daily,Aloe Vera,Citrus,No,No,Yes,7,West,Nykaa
+P00469,Serum,Skincare,Mamaearth,1312.02,30,Dry,Curly,Adult,Unisex,4,Occasional,Aloe Vera,Fruity,No,Yes,Yes,1,South,Amazon
+P00470,Deodorant,Skincare,Neutrogena,297.02,30,Normal,Straight,Adult,Unisex,5,Weekly,Coconut Oil,Woody,Yes,Yes,Yes,5,West,Amazon
+P00471,Body Lotion,Bodycare,Ponds,1431.57,15,Dry,Straight,Senior,Unisex,2,Weekly,Aloe Vera,Woody,Yes,Yes,Yes,8,South,Nykaa
+P00472,Toner,Fragrance,Biotique,418.8,50,Normal,Straight,Adult,Unisex,2,Daily,Coconut Oil,Citrus,No,No,No,8,North,Flipkart
+P00473,Body Lotion,Makeup,Nivea,745.63,32,Normal,Straight,Teen,Male,4,Weekly,Charcoal,Citrus,Yes,No,No,5,North,Flipkart
+P00474,Sunscreen,Skincare,Dove,128.25,15,Combination,Coily,Adult,Unisex,1,Occasional,Coconut Oil,Unscented,No,Yes,Yes,7,West,Myntra
+P00475,Deodorant,Skincare,Neutrogena,220.71,32,Sensitive,Straight,Senior,Unisex,4,Daily,Aloe Vera,Unscented,No,Yes,No,8,East,Myntra
+P00476,Body Lotion,Makeup,L'Oréal,1386.16,15,Dry,Straight,Senior,Male,3,Weekly,Coconut Oil,Woody,No,No,No,1,Pan-India,Brand Website
+P00477,Moisturizer,Bodycare,Himalaya,520.44,30,Sensitive,Wavy,Senior,Male,1,Weekly,Charcoal,Fruity,Yes,No,No,7,East,Amazon
+P00478,Lip Balm,Haircare,Biotique,602.03,32,Normal,Curly,Adult,Male,3,Occasional,Coconut Oil,Fruity,No,Yes,No,3,East,Myntra
+P00479,Sunscreen,Bodycare,L'Oréal,271.97,32,Sensitive,Straight,Senior,Unisex,4,Daily,Charcoal,Fruity,No,Yes,No,4,South,Nykaa
+P00480,Toner,Fragrance,Mamaearth,363.48,50,Sensitive,Straight,Adult,Unisex,4,Occasional,Rose Water,Floral,Yes,Yes,Yes,1,West,Amazon
+P00481,Moisturizer,Makeup,Biotique,678.84,15,Sensitive,Coily,Senior,Male,5,Weekly,Vitamin C,Floral,No,No,No,7,South,Brand Website
+P00482,Lip Balm,Makeup,Ponds,565.06,15,Oily,Curly,Senior,Unisex,3,Occasional,Charcoal,Unscented,Yes,No,Yes,7,Pan-India,Nykaa
+P00483,Moisturizer,Fragrance,Neutrogena,240.26,50,Normal,Straight,Senior,Female,4,Daily,Aloe Vera,Floral,No,No,No,2,Pan-India,Nykaa
+P00484,Toner,Makeup,Nivea,616.02,50,Dry,Straight,Teen,Unisex,1,Daily,Tea Tree,Citrus,Yes,Yes,Yes,4,West,Myntra
+P00485,Conditioner,Fragrance,Nivea,169.02,15,Combination,Curly,Teen,Male,1,Weekly,Aloe Vera,Woody,No,No,Yes,10,North,Nykaa
+P00486,Face Wash,Bodycare,Himalaya,1483.7,32,Oily,Curly,Senior,Unisex,1,Daily,Vitamin C,Woody,Yes,No,Yes,4,South,Myntra
+P00487,Sunscreen,Makeup,L'Oréal,1478.21,30,Normal,Wavy,Senior,Male,3,Weekly,Rose Water,Citrus,Yes,Yes,No,10,North,Brand Website
+P00488,Moisturizer,Bodycare,Biotique,160.78,32,Dry,Straight,Adult,Unisex,5,Occasional,Aloe Vera,Woody,No,No,No,7,North,Nykaa
+P00489,Face Wash,Bodycare,Mamaearth,782.63,30,Dry,Straight,Adult,Male,4,Weekly,Coconut Oil,Unscented,No,Yes,No,7,West,Nykaa
+P00490,Conditioner,Bodycare,Himalaya,195.94,30,Sensitive,Straight,Teen,Unisex,5,Daily,Aloe Vera,Floral,Yes,Yes,No,6,East,Flipkart
+P00491,Moisturizer,Haircare,Mamaearth,1099.88,30,Combination,Straight,Senior,Unisex,3,Daily,Rose Water,Woody,No,No,Yes,1,Pan-India,Flipkart
+P00492,Body Lotion,Skincare,Lakmé,211.77,15,Oily,Straight,Senior,Unisex,3,Daily,Charcoal,Floral,No,No,No,1,South,Flipkart
+P00493,Deodorant,Skincare,Mamaearth,643.18,32,Dry,Straight,Adult,Unisex,3,Daily,Vitamin C,Woody,Yes,No,No,5,West,Amazon
+P00494,Conditioner,Makeup,Biotique,390.98,50,Oily,Straight,Adult,Female,4,Daily,Aloe Vera,Floral,Yes,Yes,Yes,6,Pan-India,Amazon
+P00495,Deodorant,Haircare,Neutrogena,1137.26,30,Combination,Straight,Senior,Female,1,Daily,Rose Water,Fruity,Yes,No,Yes,4,North,Flipkart
+P00496,Shampoo,Haircare,Biotique,737.48,50,Combination,Wavy,Senior,Unisex,5,Occasional,Coconut Oil,Floral,Yes,Yes,No,4,North,Flipkart
+P00497,Deodorant,Skincare,Biotique,359.77,50,Normal,Curly,Adult,Male,2,Occasional,Vitamin C,Citrus,Yes,Yes,No,2,North,Brand Website
+P00498,Deodorant,Makeup,Ponds,1471.74,32,Dry,Straight,Teen,Female,1,Occasional,Rose Water,Woody,Yes,No,Yes,10,Pan-India,Flipkart
+P00499,Body Lotion,Fragrance,Garnier,132.02,32,Combination,Wavy,Senior,Unisex,4,Weekly,Coconut Oil,Fruity,Yes,Yes,Yes,4,West,Flipkart
+P00500,Lip Balm,Haircare,Biotique,1028.33,32,Normal,Curly,Adult,Unisex,5,Weekly,Coconut Oil,Floral,Yes,Yes,No,7,South,Nykaa
