@@ -1,4 +1,4 @@
- Products Sales Analysis - Power BI, SQL & MySQL
+ Products Sales Analysis - Power BI, MySQL
 # Overview
 This project analyzes product sales data to uncover top-selling items, customer preferences, and price vs. popularity trends. The dataset was sourced from Kaggle, cleaned using SQL & MySQL, and visualized in Power BI to provide actionable business insights.
 
